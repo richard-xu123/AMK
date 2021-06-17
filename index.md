@@ -14,6 +14,6 @@ You can use the [editor on GitHub](https://github.com/richard-xu123/richard-xu12
 	<h2>Info</h2>
 	
 	<p> Megalodons are extinct species of shark that lived around approximately 3.6 million years ago.
-		It's considerd one of the mostv fearsome predators that ever lived on earth 	</p>
+		It's considerd one of the mosts fearsome predators that ever lived on earth 	</p>
 	</body>
 </html>
