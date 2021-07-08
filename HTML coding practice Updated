@@ -1,0 +1,116 @@
+blog post updated
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ArkMotionPictures - Home </title>
+	<link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+
+<center><h1>AMK.com</h1></center>
+
+<center>
+
+<a href="index.html">Home</a> | <a href="about us.html">about us</a> | <a href="studio.html">Studio</a> | <a href="services.html">Services</a> | <a href="our work.html">Our Work</a> | <a href="news.html">News</a> | <a href="reviews.html">Reviews</a> | <b>Blog Posts</b> | <a href="contact us2.html">Contact us</a>
+
+</center>
+
+<center><h2>Blog Post #1</h2></center>
+
+<center><h3>Blog Post #2</h3></center>
+
+<center><h3>Blog Post #3</h3></center>
+
+<img class="rotate_01" src="swirl.png">
+</body>
+</html>
+
+Contact updated
+
+<!DOCTYPE html> 
+<html land="en">
+<head>
+	<title> AMK Contact Page </title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<center><h1>Contact Us</h1></center>
+
+<center>
+
+<a href="index.html">Home</a> | <a href="about us.html">about us</a> | <a href="studio.html">Studio</a> | <a href="services.html">Services</a> | <a href="our work.html">Our Work</a> | <a href="news.html">News</a> | <a href="reviews.html">Reviews</a> | <a href="blog posts.html">Blog Posts</a> | <b>Contact us</b>
+
+</center>
+
+<div class="container">
+	<p>Contact our Specialists!</p>
+	<div class="contact-box">
+		<div class="contact-left">
+			<h3>Send us your request</h3>
+			<form action="">
+				<div class="input row">
+				     <div class="input-group">
+				     	  <label>Name</label>
+				     	  <input type="text" placeholder="Richard Xu">
+				<div class="input row">
+				     <div class="input-group">
+				     	  <label>Email</label>
+				     	  <input type="text" placeholder="richard.3.xu@gmail.com">
+			    </div>
+			     <div class="input-group">
+				     	  <label>Phone</label>
+				     	  <input type="text" placeholder="1-845-249-2009">
+			    </div>
+			    <div class="input row">
+				     <div class="input-group">
+				     	  <label>Company Name</label>
+				     	  <input type="text" placeholder="AMK">
+				</div>
+				<div class="input row">
+				     <div class="input-group">
+				     	  <label>Postal Code</label>
+				     	  <input type="text" placeholder="10987">
+				</div>
+			    <div class="input row">
+				     <div class="input-group">
+				     	  <label>Subject</label>
+				     	  <input type="text" placeholder="Project Demo">
+				</div>
+
+				<label>Message</label>
+				<textarea name="" id="" cols="30" rows="5" placeholder="Your Message"></textarea>
+
+				<button type="submit">SEND</button>
+
+			</form>
+		<div class="contact-right">
+			<h3>Reach us</h3>
+
+
+			<table>
+				<tr>
+					<td>Email</td>	
+					<td>zhangn@xzsonders.org</td>
+				</tr>
+				<tr>
+					<td>Phone</td>	
+					<td>646-309-3366</td>
+				</tr>
+		
+			</table>
+
+
+		</div>
+	
+</div>
+
+</body>
+</html>
