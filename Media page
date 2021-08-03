@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ark Motion Pictures Media</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="loader_bg">
+      <div class="loader"></div>
+    </div>
+    <header>
+      <nav class = "navbar">
+        <div class = "container">
+          <a href = "index.html" class = "navbar-brand">Ark Motion Pictures Media Page</a>
+          <div class = "navbar-nav">
+            <a href = "">home</a>
+            <a href = "">videos</a>
+            <a href = "">music</a>
+          </div>
+        </div>
+      </nav>
+      <div class = "banner">
+        <div class = "container">
+          <h1 class = "banner-title">
+            <span>Media</span>
+          </h1>
+          <p>Videos or other about Movies & film</p>
+          <form>
+            <input type = "text" class = "search-input" placeholder="search . . .">
+            <button type = "submit" class = "search-btn">
+              <i class = "fas fa-search"></i>
+            </button>
+          </form>
+        </div>
+      </div>
+    </header>>
+    <section class = "design" id = "design">
+      <div class = "container">
+        <div class = "title">
+          <h2>Documentaries</h2>
+        </div>
+        <div class = "design-content">
+          <div class = "design-item">
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/k0RYQVkQmWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class = "design-title">
+              <a href = "#">History of Linux</a>
+            </div>
+          </div>
+          <div class = "design-item">
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/s4pVFLUlx8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class = "design-title">
+              <a href = "#">History of Apple</a>
+            </div>
+          </div>
+          <div class = "design-item">
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/ofpcNh1-esg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class = "design-title">
+              <a href = "#">History of Microsoft</a>
+            </div>
+          </div>
+          <div class = "design-item">
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/h3U_Q9Jg3Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class = "design-title">
+              <a href = "#">How Samsung was created from the Korean War</a>
+            </div>
+          </div>
+          <div class = "design-item">
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/3Wr2szhb3xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class = "design-title">
+              <a href = "#">How Motion Pictures were created</a>
+            </div>
+          </div>
+          <div class = "design-item">
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/jwCYxwkjw90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class = "design-title">
+              <a href = "#">History of Coca-Cola</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class = "blog" id = "blog">
+      <div class = "container">
+        <div class = "title">
+          <h2>Movie Trailers</h2>
+          <p>Trailers for Upcoming Movies</p>
+        </div>
+        <div class = "blog-content">
+          <!-- item -->
+          <div class = "blog-item">
+            <div class="blog-img">
+              <iframe width="460" height="315" src="https://www.youtube.com/embed/eOrNdBpGMv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+              </iframe>
+            </div>
+            <div class = "blog-text">
+              <span>Release Date: 4 May, 2012</span>
+              <h2>Coming soon to theatres!</h2>
+              <a href = "#">Read More</a>
+            </div>
+          </div>
+          <div class = "blog-item">
+            <div class="blog-img">
+               <iframe width="460" height="315" src="https://www.youtube.com/embed/h9Q4zZS2v1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+               </iframe>
+            </div>
+            <div class = "blog-text">
+              <span>4 June, 2021</span>
+              <h2>Coming to theatres this Summer!</h2>
+              <a href = "#">Read More</a>
+            </div>
+          </div>
+          <div class = "blog-item">
+            <div class="blog-img">
+               <iframe width="460" height="315" src="https://www.youtube.com/embed/acQyrwQyCOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+               </iframe>
+            </div>
+            <div class = "blog-text">
+              <span>5 January, 2018</span>
+              <h2>Coming soon to theatres!</h2>
+              <a href = "#">Read More</a>
+            </div>
+          </div>
+          <div class = "blog-item">
+            <div class="blog-img">
+              <iframe width="460" height="315" src="https://www.youtube.com/embed/dylgnwNKoYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+              </iframe>
+            </div>
+            <div class = "blog-text">
+              <span>22 January, 2020</span>
+              <h2>Coming soon to theatres!</h2>
+              <a href = "#">Read More</a>
+            </div>
+          </div>
+          <div class = "blog-item">
+            <div class="blog-img">
+              <iframe width="460" height="315" src="https://www.youtube.com/embed/OTdr1Ik8SMc" title="YouTube video player"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+              </iframe>
+            </div>
+            <div class = "blog-text">
+              <span>15 October, 2021</span>
+              <h2>Coming soon to theatres!</p>
+              <a href = "#">Read More</a>
+            </div>
+          </div>
+          <div class = "blog-item">
+            <div class="blog-img">
+              <iframe width="460" height="315" src="https://www.youtube.com/embed/A4U2pMRV9_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+              </iframe>
+            </div>
+            <div class = "blog-text">
+              <span>23 July, 2021</span>
+              <h2>Coming soon to theatres!</h2>
+              <a href = "#">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="https://code.createjs.com/1.0.0/preloadjs.min.js"></script>
+      <script>
+        setTimeout(function(){
+          $('.loader_bg').fadetoggle();
+        }, 1500);
+      </script>
+  </body>
+</html>
